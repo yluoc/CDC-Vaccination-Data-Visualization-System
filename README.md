@@ -1,4 +1,4 @@
-# Python
+# Python CSE115 final project
 Python course's final project
 First Python program, using Python (@bottle), Javascript, and HTML to create three charts to show vaccine data.
 It can also read CSV file and process CSV data to the data that Python and Javascript can used.
